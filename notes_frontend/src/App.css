@@ -1,6 +1,11 @@
 /* CSS Variables for Theme Management */
 :root {
   /* Light theme colors */
+  --primary: #2563eb;   /* Primary - blue */
+  --secondary: #64748b; /* Secondary - slate */
+  --accent: #fbbf24;    /* Accent - yellow */
+  --sidebar-bg: #2563eb;
+  --sidebar-text: #fff;
   --bg-primary: #ffffff;
   --bg-secondary: #f8f9fa;
   --text-primary: #282c34;
